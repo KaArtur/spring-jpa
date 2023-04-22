@@ -1,3 +1,4 @@
+/*
 package pl.edu.wszib.springjpa;
 
 import org.springframework.data.jpa.repository.JpaRepository;
@@ -8,3 +9,4 @@ public interface PracaRepository extends JpaRepository<Praca,Integer> {
 
     List<Praca>  findAllByStanowisko(String stanowisko);
 }
+*/

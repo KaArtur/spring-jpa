@@ -1,3 +1,4 @@
+/*
 package pl.edu.wszib.springjpa;
 
 
@@ -45,4 +46,4 @@ public class PracaController {
     public void delete(@PathVariable Integer id) {
         repository.deleteById(id);
     }
-}
+}*/

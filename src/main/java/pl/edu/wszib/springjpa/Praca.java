@@ -1,3 +1,4 @@
+/*
 package pl.edu.wszib.springjpa;
 
 import javax.persistence.Entity;
@@ -38,3 +39,4 @@ public class Praca {
         this.firma = firma;
     }
 }
+*/
